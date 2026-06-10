@@ -1,0 +1,15 @@
+C:\Users\ROHIT\SmartHire\SmartHire.Application\bin\Debug\net8.0\SmartHire.Application.deps.json
+C:\Users\ROHIT\SmartHire\SmartHire.Application\bin\Debug\net8.0\SmartHire.Application.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Application\bin\Debug\net8.0\SmartHire.Application.pdb
+C:\Users\ROHIT\SmartHire\SmartHire.Application\bin\Debug\net8.0\SmartHire.Domain.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Application\bin\Debug\net8.0\SmartHire.Domain.pdb
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\SmartHire.Application.csproj.AssemblyReference.cache
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\SmartHire.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\SmartHire.Application.AssemblyInfoInputs.cache
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\SmartHire.Application.AssemblyInfo.cs
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\SmartHire.Application.csproj.CoreCompileInputs.cache
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\SmartHir.1DCD45FF.Up2Date
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\SmartHire.Application.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\refint\SmartHire.Application.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\SmartHire.Application.pdb
+C:\Users\ROHIT\SmartHire\SmartHire.Application\obj\Debug\net8.0\ref\SmartHire.Application.dll

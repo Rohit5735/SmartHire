@@ -1,0 +1,11 @@
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\bin\Debug\net8.0\SmartHire.Domain.deps.json
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\bin\Debug\net8.0\SmartHire.Domain.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\bin\Debug\net8.0\SmartHire.Domain.pdb
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\obj\Debug\net8.0\SmartHire.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\obj\Debug\net8.0\SmartHire.Domain.AssemblyInfoInputs.cache
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\obj\Debug\net8.0\SmartHire.Domain.AssemblyInfo.cs
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\obj\Debug\net8.0\SmartHire.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\obj\Debug\net8.0\SmartHire.Domain.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\obj\Debug\net8.0\refint\SmartHire.Domain.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\obj\Debug\net8.0\SmartHire.Domain.pdb
+C:\Users\ROHIT\SmartHire\SmartHire.Domain\obj\Debug\net8.0\ref\SmartHire.Domain.dll

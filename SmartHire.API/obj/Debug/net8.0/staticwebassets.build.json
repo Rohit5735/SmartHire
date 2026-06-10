@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bmz1j6jHcSRMyjePQ4HeY1xravRV5cy8g+xtsdzrCBI=",
+  "Source": "SmartHire.API",
+  "BasePath": "_content/SmartHire.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

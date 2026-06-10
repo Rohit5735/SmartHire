@@ -1,0 +1,17 @@
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\bin\Debug\net8.0\SmartHire.Infrastructure.deps.json
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\bin\Debug\net8.0\SmartHire.Infrastructure.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\bin\Debug\net8.0\SmartHire.Infrastructure.pdb
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\bin\Debug\net8.0\SmartHire.Application.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\bin\Debug\net8.0\SmartHire.Domain.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\bin\Debug\net8.0\SmartHire.Application.pdb
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\bin\Debug\net8.0\SmartHire.Domain.pdb
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\SmartHire.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\SmartHire.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\SmartHire.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\SmartHire.Infrastructure.AssemblyInfo.cs
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\SmartHire.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\SmartHir.C28AAFFC.Up2Date
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\SmartHire.Infrastructure.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\refint\SmartHire.Infrastructure.dll
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\SmartHire.Infrastructure.pdb
+C:\Users\ROHIT\SmartHire\SmartHire.Infrastructure\obj\Debug\net8.0\ref\SmartHire.Infrastructure.dll
